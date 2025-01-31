@@ -2,6 +2,8 @@ import React from "react";
 import whitelist_dapp from "../assets/portfolio/whitelist_dapp.png";
 import contact from "../assets/portfolio/contact-manager.png";
 import portfolio from "../assets/portfolio/portfolio.png";
+import hospital_management from "../assets/portfolio/hospital_management.png";
+import songs_playlist from "../assets/portfolio/songs_playlist.png";
 import admin from "../assets/portfolio/admin-dashboard.png";
 import search from "../assets/portfolio/Search_Movie.png";
 
@@ -37,9 +39,22 @@ const Portfolio = () => {
       website: "",
       github: "https://github.com/Abhinav-Giri/Admin-Dashboard"
     },
-    
     {
       id: 5,
+      desc:"5. Hospital Booking Management",
+      src: hospital_management,
+      website: "",
+      github: "https://github.com/Abhinav-Giri/Hospital_Management--MERN"
+    },
+    {
+      id: 6,
+      desc:"5. Songs Playlist",
+      src: songs_playlist,
+      website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
+      github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
+    }
+    {
+      id: 7,
       desc:"5. Solidity Project",
       src: whitelist_dapp,
       website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
