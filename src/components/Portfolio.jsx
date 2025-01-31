@@ -46,17 +46,18 @@ const Portfolio = () => {
       website: "",
       github: "https://github.com/Abhinav-Giri/Hospital_Management--MERN"
     },
+   
     {
       id: 6,
-      desc:"5. Songs Playlist",
-      src: songs_playlist,
+      desc:"6. Solidity Project",
+      src: whitelist_dapp,
       website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
       github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
-    }
-    {
+    },
+     {
       id: 7,
-      desc:"5. Solidity Project",
-      src: whitelist_dapp,
+      desc:"7. Songs Playlist",
+      src: songs_playlist,
       website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
       github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
     }
