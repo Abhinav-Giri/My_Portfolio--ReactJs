@@ -14,7 +14,7 @@ const About = () => {
           
         </div>
         <p className="text-xl">
-         I am Abhinav Giri, a Software Engineer with nearly 3 years of experience working in dynamic and collaborative environments. I specialize in React.js, JavaScript, TypeScript, HTML, and CSS, with strong knowledge of the MERN stack, MySQL, Git, and Docker. My dedication to continuous learning drives my passion for advancing my career in software development.
+         I am Abhinav Giri, a Software Engineer with 3+ years of experience working in dynamic and collaborative environments. I specialize in React.js, JavaScript, TypeScript, HTML, and CSS, with strong knowledge of the MERN stack, MySQL, Git, and Docker. My dedication to continuous learning drives my passion for advancing my career in software development.
         </p>
         
 {/*         <p className="text-xl">
