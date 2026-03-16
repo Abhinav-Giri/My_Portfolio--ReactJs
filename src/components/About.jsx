@@ -14,11 +14,11 @@ const About = () => {
           
         </div>
         <p className="text-xl">
-         I am currently working as a Software Development Engineer at Rhizicube, worked on projects like Link-Nest, AMP Email Editor, Botpress WhatsApp Chatbot, Creatives and Smart Quiz Generator and written some blogs for company available on its official website rhizicube.ai. I utilize a range of technologies including Next.js, React.js, JavaScript, Node.js, HTML, and CSS. My dedication to continuous learning drives my passion for advancing my career in software development.
+         I am Abhinav Giri, a Software Engineer with nearly 3 years of experience working in dynamic and collaborative environments. I specialize in React.js, JavaScript, TypeScript, HTML, and CSS, with strong knowledge of the MERN stack, MySQL, Git, and Docker. My dedication to continuous learning drives my passion for advancing my career in software development.
         </p>
         
 {/*         <p className="text-xl">
-          Working and learning software development from <a href="https://www.learnweb3.io/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold">LearnWeb3 and other resources</a>...
+          My experience spans both front-end and back-end development, including building scalable web applications, optimizing user interfaces, and ensuring security and performance. You may please consider this if I get fit into any role.
         </p> */}
       </div>
     </div>
