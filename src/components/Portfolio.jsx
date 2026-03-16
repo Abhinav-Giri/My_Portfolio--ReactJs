@@ -3,7 +3,7 @@ import whitelist_dapp from "../assets/portfolio/whitelist_dapp.png";
 import contact from "../assets/portfolio/contact-manager.png";
 import portfolio from "../assets/portfolio/portfolio.png";
 import hospital_management from "../assets/portfolio/hospital_management.jpg";
-import songs_playlist from "../assets/portfolio/songs_playlist.png";
+// import songs_playlist from "../assets/portfolio/songs_playlist.png";
 import admin from "../assets/portfolio/admin-dashboard.png";
 import search from "../assets/portfolio/Search_Movie.png";
 
@@ -53,14 +53,15 @@ const Portfolio = () => {
       src: whitelist_dapp,
       website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
       github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
-    },
-     {
-      id: 7,
-      desc:"7. Songs Playlist",
-      src: songs_playlist,
-      website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
-      github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
     }
+    // ,
+    //  {
+    //   id: 7,
+    //   desc:"7. Songs Playlist",
+    //   src: songs_playlist,
+    //   website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
+    //   github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
+    // }
   ];
 
   return (
